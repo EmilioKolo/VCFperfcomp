@@ -1,0 +1,2 @@
+# Bioinformatics tools
+vcfpy==0.14.2
